@@ -1,5 +1,5 @@
 {
-    "name": "backpack/demo",
+    "name": "joy/backpack-api-laravel-demo",
     "description": "A Laravel + Backpack installation to show off most features.",
     "keywords": ["backpack", "laravel", "backpack for laravel", "admin panel", "crud"],
     "license": "proprietary",
