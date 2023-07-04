@@ -33,7 +33,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "datatables.net-bs4": "^1.10.15",
-    "datatables.net-responsive": "2.2.4",
+    "datatables.net-responsive": "2.5.0",
     "jquery": ">=1.7"
   },
   "deprecated": false,
